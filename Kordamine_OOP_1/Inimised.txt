@@ -1,0 +1,3 @@
+Lija, 2003, naine;
+Lia, 23, naine;
+Maks, 17, mees;

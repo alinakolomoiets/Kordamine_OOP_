@@ -8,7 +8,7 @@ namespace Kordamine_OOP_1
 {
     abstract class Isik
     {
-        public string nimi;
+       /* public string nimi;
         public int synniAasta;
         public enum sugu {mees, naine};
         public sugu isikSugu;
@@ -54,6 +54,7 @@ namespace Kordamine_OOP_1
         {
             isikSugu = (sugu)uusSugu;
         }
+
 
 
     }   
